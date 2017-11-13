@@ -4,11 +4,11 @@ These are the step-by-step instructions to spin up a Couchbase Cluster on Azure 
 
 Navigate to the [Couchbase Enterprise on Azure Marketplace](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/couchbase.couchbase-enterprise). If you have already set up your Azure free account, proceed to the "Get It Now" step below.  Otherwise, click the "Free Account" link.
 
-![Marketplace](/images/0/01SplashScreen.png)
+![Get It Now](/images/0/01SplashScreen.png)
 
 On the subsequent screen, click the "Start free" button.
 
-![Get It Now](/images/0/01SplashScreen.png)
+![Marketplace](/images/0/02FreeAccount.png)
 
 Choose the appropriate license terms (BYOL or Hourly Pricing) and click "Continue" to proceed.
 
