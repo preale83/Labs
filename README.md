@@ -1,11 +1,10 @@
 # Labs
 ## Introduction
-The objective of this Test Drive is to familiarize you with the basics of Couchbase Server and Couchbase Sync Gateway. You will go through four exercises using this test drive:
+The objective of this lab is to familiarize you with the basics of Couchbase Server. After spinning up an instance of Couchbase Server on Azure Marketplace, you will go through four exercises:
 
 1. Couchbase basics
     * You will log into the Couchbase Console (the web-based UI that comes with Couchbase Server)
     * Next, you will load the "travel-sample" bucket, a predefined data set that's great for experimentation.
-    * Finally, you will log into the Sync Gateway console briefly.
 2. Key/value document storage
     * You will use the Couchbase Console to add documents to a bucket.
     * Next, you will locate documents using the key
@@ -43,15 +42,7 @@ Code snippets and fields in JSON document will appear as a monospaced font, like
 
 You will learn the basics of using Couchbase Server in this test drive.
 
-After you complete these labs, we invite you to [visit the Azure Marketplace](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/couchbase.couchbase-enterprise?tab=Overview) to spin up your own Couchbase Server cluster.
-
 Couchbase Server offers a full enterprise document database solution. A performant key/value database engine with a memory-first architecture is at the core of Couchbase Server. The Couchbase Console provides a built-in UI that makes it easy to perform ops and dev tasks out of the box. Couchbase Server also has robust querying options to match your use cases, including [N1QL (which is SQL for JSON)](https://www.couchbase.com/products/n1ql) and a language aware full text search engine built on the [Bleve](http://www.blevesearch.com/) engine. After completing these labs, you will understand how to use all these components.
-
-In addition, you will also be taking a very shallow look at Sync Gateway, which is part of the [Couchbase Mobile platform](https://www.couchbase.com/products/mobile).
-
-## Test Drive Support
-
-If you have any questions or problems with this test drive, please contact [partners@couchbase.com](mailto:partners@couchbase.com).
 
 ## Labs
 
