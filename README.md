@@ -48,9 +48,9 @@ Couchbase Server offers a full enterprise document database solution. A performa
 
 Great.  Now, we're ready to get started!  The test drive labs can be run on either Azure or GCP.  You can even use these lab materials on a cluster you provision yourself.  This is sometimes the case if attending a Couchbase Day.
 
-Instructions on creating a cluster with Test Drive are here:
+Instructions on creating and starting your cluster are here:
 
-* [0 - Starting Couchbase on Azure](0a%20-%20Starting%20the%20Azure%20Test%20Drive.md)
+* [0 - Spinning up a Cluster on Azure Marketplace.md](0a%20-%20Spining%20up%20a%20Cluster%20on%20Azure%20Marketplace.md)
 
 With a cluster all ready, here are the labs we'll work through in order:
 
