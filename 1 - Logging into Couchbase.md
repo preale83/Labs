@@ -1,5 +1,6 @@
 # Lab 1 - Logging into Couchbase
 
+
 During this lab you'll login to Couchbase for the first time. You need to complete this lab before starting any of the other labs.
 
 ## Objective
