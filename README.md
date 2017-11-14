@@ -50,7 +50,7 @@ Great.  Now, we're ready to get started!  The test drive labs can be run on eith
 
 Instructions on creating and starting your cluster are here:
 
-* [0 - Spinning up a Cluster on Azure Marketplace.md](0a%20-%20Spining%20up%20a%20Cluster%20on%20Azure%20Marketplace.md)
+* [0 - Spinning up a Cluster on Azure Marketplace](0%20-%20Spining%20up%20a%20Cluster%20on%20Azure%20Marketplace.md)
 
 With a cluster all ready, here are the labs we'll work through in order:
 
